@@ -1,0 +1,7 @@
+﻿  fault model A.cpp
+E:\Code\tifs_reviewer\Table8_result(fault model A)\fault model A.cpp(203,41): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 380 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Table8_result(fault model A).vcxproj -> E:\Code\tifs_reviewer\Table8_result(fault model A)\x64\Release\Table8_result(fault model A).exe
